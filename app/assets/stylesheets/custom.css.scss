@@ -3,6 +3,10 @@
  @import "font-awesome-sprockets";
  @import "font-awesome";
  
+ html {
+  overflow: hidden;
+}
+ 
  body {
   //Gradient from: https://uigradients.com/#VisionsofGrandeur
   background: #000046;  /* fallback for old browsers */
@@ -15,3 +19,7 @@
   background: #333333;
   color: white;
  }
+ 
+
+ 
+ 
